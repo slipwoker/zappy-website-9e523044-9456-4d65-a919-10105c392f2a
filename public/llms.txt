@@ -1,0 +1,89 @@
+# HP Shop — Generative Engine Optimization Map
+
+> A merchandise/retail business.
+
+---
+
+## Pages
+
+### Home
+https://hp-shop-9e523044.zappy5.app
+Discover magical fareway online shopping at HP Shop. Enchanting Harry Potter merchandise for true fans. Shop wizarding world collectibles today!
+
+### Collections
+https://hp-shop-9e523044.zappy5.app/collections
+Explore our enchanting amazon online shopping collections of Harry Potter merchandise. Authentic wands, robes, collectibles, and magical decor for devoted fans.
+
+### About
+https://hp-shop-9e523044.zappy5.app/about
+Learn about HP Shop's journey in creating the finest costco online shopping experience for Harry Potter fans. Passionate team, authentic merchandise, magical service.
+
+### Contact
+https://hp-shop-9e523044.zappy5.app/contact
+Contact HP Shop for fareway online shopping inquiries, special orders, and customer support. Reach our magical team for authentic Harry Potter merchandise assistance.
+
+### Products
+https://hp-shop-9e523044.zappy5.app/products
+Our Products - HP Shop
+
+### Cart
+https://hp-shop-9e523044.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://hp-shop-9e523044.zappy5.app/checkout
+Checkout
+
+### Login
+https://hp-shop-9e523044.zappy5.app/login
+Customer Login
+
+### Account
+https://hp-shop-9e523044.zappy5.app/account
+My Account
+
+### Order Success
+https://hp-shop-9e523044.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://hp-shop-9e523044.zappy5.app/product/:slug
+Product Details - HP Shop
+
+### Category
+https://hp-shop-9e523044.zappy5.app/category/:slug
+Products - HP Shop
+
+## Legal & Policy
+
+### Privacy Policy
+https://hp-shop-9e523044.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://hp-shop-9e523044.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://hp-shop-9e523044.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About HP Shop
+HP Shop is a business in the merchandise/retail industry.
+
+## Target Audience
+Harry Potter fans
+
+## Industry
+merchandise/retail
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://hp-shop-9e523044.zappy5.app/sitemap.xml
+- **Robots.txt**: https://hp-shop-9e523044.zappy5.app/robots.txt
