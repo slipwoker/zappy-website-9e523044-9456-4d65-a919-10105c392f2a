@@ -1,79 +1,89 @@
-# Business — Generative Engine Optimization Map
+# HP Shop — Generative Engine Optimization Map
+
+> A merchandise/retail business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://hp-shop.zappy5.app
 Discover magical fareway online shopping at HP Shop. Enchanting Harry Potter merchandise for true fans. Shop wizarding world collectibles today!
 
 ### Collections
-https://example.com/collections
+https://hp-shop.zappy5.app/collections
 Explore our enchanting amazon online shopping collections of Harry Potter merchandise. Authentic wands, robes, collectibles, and magical decor for devoted fans.
 
 ### About
-https://example.com/about
+https://hp-shop.zappy5.app/about
 Learn about HP Shop's journey in creating the finest costco online shopping experience for Harry Potter fans. Passionate team, authentic merchandise, magical service.
 
 ### Contact
-https://example.com/contact
+https://hp-shop.zappy5.app/contact
 Contact HP Shop for fareway online shopping inquiries, special orders, and customer support. Reach our magical team for authentic Harry Potter merchandise assistance.
 
 ### Products
-https://example.com/products
+https://hp-shop.zappy5.app/products
 Our Products - HP Shop
 
 ### Cart
-https://example.com/cart
+https://hp-shop.zappy5.app/cart
 Your Cart
 
 ### Checkout
-https://example.com/checkout
+https://hp-shop.zappy5.app/checkout
 Checkout
 
 ### Login
-https://example.com/login
+https://hp-shop.zappy5.app/login
 Customer Login
 
 ### Account
-https://example.com/account
+https://hp-shop.zappy5.app/account
 My Account
 
 ### Order Success
-https://example.com/order-success
+https://hp-shop.zappy5.app/order-success
 Thank you for your order
 
 ### Product Detail
-https://example.com/product/:slug
+https://hp-shop.zappy5.app/product/:slug
 Product Details - HP Shop
 
 ### Category
-https://example.com/category/:slug
+https://hp-shop.zappy5.app/category/:slug
 Products - HP Shop
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://hp-shop.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://hp-shop.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://hp-shop.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About HP Shop
+HP Shop is a business in the merchandise/retail industry.
+
+## Target Audience
+Harry Potter fans
+
+## Industry
+merchandise/retail
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://hp-shop.zappy5.app/sitemap.xml
+- **Robots.txt**: https://hp-shop.zappy5.app/robots.txt
