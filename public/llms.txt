@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# HP Shop — Generative Engine Optimization Map
+
+> A merchandise/retail business.
 
 ---
 
@@ -70,7 +72,15 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About HP Shop
+HP Shop is a business in the merchandise/retail industry.
+
+## Target Audience
+Harry Potter fans
+
+## Industry
+merchandise/retail
+
 ---
 
 # Additional Resources
